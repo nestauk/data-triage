@@ -33,6 +33,7 @@ cp -r datasets/.template ${NEW_DIR}
 sed -i -e "s/{{template}}/${1}/g" ${NEW_DIR}/*/*ipynb
 sed -i -e "s/{{template}}/${1}/g" ${NEW_DIR}/README.md
 jupyter trust ${NEW_DIR}/*/*ipynb &> /dev/null
-rm ${NEW_DIR}/*/*ipynb-e
+rm ${NEW_DIR}/*/*-e &> /dev/null
+rm ${NEW_DIR}/*-e &> /dev/null
 
 echo -e "\nNew data triage directory created at\n\t${NEW_DIR}\n"
