@@ -1,0 +1,112 @@
+{
+    "artifact_type": "ARTICLE",
+    "bibliographic_data": {
+        "artifact_title": "The expanded programme on immunization calendar in Poland.",
+        "authors": [
+            "Joanna Galimska"
+        ],
+        "description": "Poland has a long history of prophylactic vaccination against infectious diseases. Hepatitis B vaccination was introduced in Poland between 1989 and 1996 as part of the Expanded Programme on Immunization (EPI). All newborns and those at high risk of hepatitis B virus (HBV) infection currently receive hepatitis B vaccine free of charge. For many years Poland has reached or exceeded the indicators required by the World Health Organization for vaccination programmes, and about 10% of the population has now been vaccinated against hepatitis B. The incidence of hepatitis B has decreased from about 40 per 100,000 in the early 1990s to 12.7 per 100,000 in 1997. It is hoped to modify the EPI in the future to improve vaccination against mumps, rubella and poliomyelitis. The possible benefit of vaccination against Haemophilus influenzae type b is currently being evaluated. Financial constraints, however, mean that not all of the approved vaccinations can be implemented. The EPI is supported by recommended vaccinations in certain groups, who pay for the vaccines. For hepatitis B, these include children, teenagers, those between 20 and 40 years of age, and those at high risk because of lifestyle or occupation.",
+        "end_page": "S43",
+        "issn": "0264410X",
+        "issue": "SUPPL. 1",
+        "page_range": "S41-3",
+        "publication_date": "2000-02-18T00:00:00.000Z+0000",
+        "publication_title": "Vaccine",
+        "publication_year": "2000",
+        "publisher": "Elsevier BV",
+        "start_page": "S41",
+        "tags": [
+            "Biochemistry, Genetics and Molecular Biology",
+            "Immunology and Microbiology",
+            "Veterinary",
+            "Medicine"
+        ],
+        "volume": "18 Suppl 1"
+    },
+    "document_type": "ARTIFACT",
+    "id": "2hI7ZqYwS8Dzb6acXpnPgtJwa2UDYj81P8uvfoGblqY",
+    "identifier": {
+        "doi": [
+            {
+                "link": "http://doi.org/10.1016/s0264-410x(99)00461-2",
+                "value": "10.1016/s0264-410x(99)00461-2"
+            }
+        ],
+        "pmid": [
+            {
+                "link": "http://www.ncbi.nlm.nih.gov/pubmed/10683544",
+                "value": "10683544"
+            }
+        ],
+        "url_id": [
+            "http://dx.doi.org/10.1016/s0264-410x(99)00461-2",
+            "http://www.ncbi.nlm.nih.gov/pubmed/10683544",
+            "http://www.sciencedirect.com/science/article/pii/S0264410X99004612",
+            "http://www.scopus.com/inward/record.url?partnerID=HzOxMe3b&scp=0033966595&origin=inward",
+            "http://linkinghub.elsevier.com/retrieve/pii/S0264410X99004612",
+            "http://api.elsevier.com/content/article/PII:S0264410X99004612?httpAccept=text/xml",
+            "http://api.elsevier.com/content/article/PII:S0264410X99004612?httpAccept=text/plain",
+            "https://linkinghub.elsevier.com/retrieve/pii/S0264410X99004612",
+            "https://api.elsevier.com/content/article/PII:S0264410X99004612?httpAccept=text/xml",
+            "https://api.elsevier.com/content/article/PII:S0264410X99004612?httpAccept=text/plain",
+            "http://dx.doi.org/10.1016/s0264-410x%2899%2900461-2",
+            "https://dx.doi.org/10.1016/s0264-410x%2899%2900461-2"
+        ]
+    },
+    "most_recent_metrics_evidence": {},
+    "plum_print_counts": {
+        "capture": {
+            "name": "capture",
+            "total": 15
+        },
+        "usage": {
+            "name": "usage",
+            "total": 1
+        }
+    },
+    "request_id": "10.1016/s0264-410x(99)00461-2",
+    "sort_count": {
+        "capture": {
+            "1year_rank": 31.0,
+            "3year_rank": 36.0,
+            "count_types": [
+                {
+                    "name": "READER_COUNT",
+                    "sources": [
+                        {
+                            "name": "Mendeley",
+                            "total": 8,
+                            "uri": "https://www.mendeley.com/research-papers/4d3a2daa-515b-3379-a3cc-c6e9803d0737"
+                        },
+                        {
+                            "name": "Mendeley",
+                            "total": 7,
+                            "uri": "https://www.mendeley.com/research-papers/expanded-programme-immunization-calendar-poland"
+                        }
+                    ],
+                    "total": 15
+                }
+            ],
+            "name": "capture",
+            "total": 15
+        },
+        "usage": {
+            "1year_rank": 2.0,
+            "3year_rank": 7.0,
+            "count_types": [
+                {
+                    "name": "ABSTRACT_VIEWS",
+                    "sources": [
+                        {
+                            "name": "EBSCO",
+                            "total": 1
+                        }
+                    ],
+                    "total": 1
+                }
+            ],
+            "name": "usage",
+            "total": 1
+        }
+    }
+}
