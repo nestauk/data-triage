@@ -4,6 +4,7 @@ API documentation: https://clinicaltrials.gov/api/gui/
 """
 
 import requests
+import json
 
 
 def collect_full_studies(expr, min_rnk, max_rnk, fmt="JSON"):
@@ -16,7 +17,9 @@ def collect_full_studies(expr, min_rnk, max_rnk, fmt="JSON"):
 
 def main():
     # Collect the first 100 studies
-    return collect_full_studies(expr="", min_rnk=1, max_rnk=100)
+    response = collect_full_studies(expr="", min_rnk=1, max_rnk=100)
+    with open("data.json", "w") as f:
+        json.dump(response, f)
 
 
 if __name__ == "__main__":
