@@ -1,0 +1,40 @@
+{
+    "abstract": "Introduction: We present three systematic reviews carried out within the. Cochrane Collaboration, focusing on a different influenza intervention in healthy adults: Vaccines; Ion Channel Inhibitor antivirals and. Neuraminidase Inhibitor (NIs) antivirals. The objectives were to identify, retrieve and assess all studies evaluating the effects of these interventions in prophylaxis and early treatments of influenza and the frequency of adverse events. Additionally we present the results of the economic evaluation of effective alternatives in order to define the most cost-effective intervention. The economic evaluation is set in the context of the. British Army.\r\n\r\nMethods: Studies were identified using a standard. Cochrane search strategy. Any randomised or quasi-randomised studies in healthy individuals aged 14\u201360 years were considered for inclusion in the systematic review. Those which met inclusion criteria were assessed for quality and their data meta-analysed. The economic model was constructed using. Cost-effectiveness and. Cost-utility study designs.\r\n\r\nResults: Live aerosol vaccines reduced cases of clinical influenza A with virological confirmation (by serology and/or viral isolation) by 48% (95%CI: 24\u201364%), whilst recommended inactivated parenteral vaccines have an efficacy of 68% (95%CI: 49\u201379%). Vaccine effectiveness in reducing clinical influenza cases (i.e. without virological confirmation) was lower, with efficacies of 13 and 24% respectively. Use of the vaccine significantly reduced time off work, but only by 0.4 days (95%CI: 0.1\u20130.8 days). Analysis of vaccines matching the circulating strain gave higher estimates of efficacy, whilst inclusion of all other vaccines reduced the efficacy. When compared to placebo for the prevention of influenza, oral amantadine was 61% (95%CI: 51\u201369%) efficacious (RR 0.39 \u2014 95%CI: 0.31\u20130.49), and oral rimantadine was 64% (95%CI: 41\u201378%) efficacious (RR 0.36 \u201495%CI: 0.22\u20130.59). When compared to placebo for the treatment of influenza, oral amantadine significantly shortened duration of fever (by 1.00 days \u2014 95%CI: 0.73\u20131.29), and oral rimantadine significantly shortened duration of fever (by 1.27 days \u2014 95%CI: 0.77\u20131.77). When compared to placebo, NIs were 74% (95%CIs: 50\u201387%) effective in preventing naturally occurring cases of clinically defined influenza. In a treatment role, NIs shortened the duration of symptoms by one day (Weighted. Mean Difference \u2014 1.0; 95%CIs: \u22121.3 to \u2212 0.6) when a clinical case definition is used. The economic results show that in healthy adults, inactivated vaccines appear the best buy.\r\n\r\nConclusions: If assessed from the point of view of effectiveness and efficiency, vaccines are undoubtedly the best preventive means for clinical influenza in healthy adults. However, when safety and quality of life considerations are included, parenteral vaccines have such low effectiveness and high incidence of trivial local adverse effects that the trade-off is unfavourable. This is so even when the incidence of influenza is high and adverse effect quality of life preferences are rated low. We reached similar conclusions for antivirals and NIs even at high influenza incidence levels. On current evidence we conclude in healthy adults aged 14\u201360 the most cost-effective option is not to take any action.",
+    "article_source": "vaccine",
+    "authors": [
+        {
+            "AfId": 25217355,
+            "AfN": "university of pavia",
+            "AuId": 2309536920,
+            "DAuN": "V Demicheli",
+            "S": 1
+        },
+        {
+            "AfId": 72054575,
+            "AfN": "cochrane collaboration",
+            "AuId": 2164947860,
+            "DAuN": "T Jefferson",
+            "S": 2
+        },
+        {
+            "AfId": 893812157,
+            "AfN": "arpa e",
+            "AuId": 2478870386,
+            "DAuN": "D Rivetti",
+            "S": 3
+        },
+        {
+            "AfId": null,
+            "AuId": 1358494281,
+            "DAuN": "J Deeks",
+            "S": 4
+        }
+    ],
+    "citation_count": 183,
+    "created": "2000-01-06",
+    "datestamp": "2000-01-06",
+    "doi": "10.1016/S0264-410X(99)00332-1",
+    "id": "vaccine-10.1016/S0264-410X(99)00332-1",
+    "title": "Prevention and early treatment of influenza in healthy adults.",
+    "updated": "2000-01-06"
+}
